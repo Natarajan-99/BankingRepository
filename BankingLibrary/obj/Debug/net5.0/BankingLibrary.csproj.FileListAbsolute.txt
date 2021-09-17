@@ -1,0 +1,12 @@
+E:\LTI\LTI august 13\Training\C# Jenkins Folder\JenkinsCIDemo\BankingLibrary\bin\Debug\net5.0\BankingLibrary.deps.json
+E:\LTI\LTI august 13\Training\C# Jenkins Folder\JenkinsCIDemo\BankingLibrary\bin\Debug\net5.0\BankingLibrary.dll
+E:\LTI\LTI august 13\Training\C# Jenkins Folder\JenkinsCIDemo\BankingLibrary\bin\Debug\net5.0\ref\BankingLibrary.dll
+E:\LTI\LTI august 13\Training\C# Jenkins Folder\JenkinsCIDemo\BankingLibrary\bin\Debug\net5.0\BankingLibrary.pdb
+E:\LTI\LTI august 13\Training\C# Jenkins Folder\JenkinsCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.csprojAssemblyReference.cache
+E:\LTI\LTI august 13\Training\C# Jenkins Folder\JenkinsCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\LTI\LTI august 13\Training\C# Jenkins Folder\JenkinsCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.AssemblyInfoInputs.cache
+E:\LTI\LTI august 13\Training\C# Jenkins Folder\JenkinsCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.AssemblyInfo.cs
+E:\LTI\LTI august 13\Training\C# Jenkins Folder\JenkinsCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.csproj.CoreCompileInputs.cache
+E:\LTI\LTI august 13\Training\C# Jenkins Folder\JenkinsCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.dll
+E:\LTI\LTI august 13\Training\C# Jenkins Folder\JenkinsCIDemo\BankingLibrary\obj\Debug\net5.0\ref\BankingLibrary.dll
+E:\LTI\LTI august 13\Training\C# Jenkins Folder\JenkinsCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.pdb
